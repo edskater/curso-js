@@ -248,3 +248,20 @@ li a:hover {
     width: 100%;
     background-color: black;
   }
+
+  .go-top {
+    position:fixed;
+    bottom: 0px;
+    left:0px;
+    padding:20px;
+    display:none;
+    cursor: pointer;
+  }
+  .go-top:after {
+    content: '▲';
+    color: #000;
+    position: absolute; 
+    bottom:10px;
+    left: 50px;
+    font-size: 32px;
+  }
