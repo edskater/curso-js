@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Card flip Hover Animation</title>
+    <script src="https://kit.fontawesome.com/ede4348c88.js " crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    
+    <div class="container top" >
+        <div class="custom-navbar" id="myHeader" >
+            <div class="brand-logo">
+                <img src="http://salehriaz.com/404Page/img/logo.svg" width="80px">
+            </div>
+            <div class="navbar-links">
+                <ul>
+                    <li><a href="#" target="_blank">Home</a></li>
+                    <li><a href="#" target="_blank" >About</a></li>
+                    <li><a href="#" target="_blank" >Features</a></li>
+                    <li><a href="#" class="btn-request" target="_blank">Request A Demo</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>    
+<div class="container">
+    <h1>Our Plans</h1>
+    <div class="card-container">
+        <div class="card-wrapper">
+            <div class="card light">
+                <div class="text-overlay">
+                    <h2>Individual</h2>
+                    <div class="price">$79<small>/ year</small></div>
+                    <div class="details-text">
+                        <span>1 contributor</span>
+                        <span>Up to 10 proyects</span>
+                        <span>24/7 support</span>
+                    </div>
+                </div>
+                <div class="purchase-button-container">
+                    <h2 class="back-h2">Individual</h2>
+                    <i class="fa-solid fa-person"></i>
+                    <div ><a class="purchase-button light" href="/404 page/404.html" target="_blank">Purchase</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper">
+            <div class="card dark">
+                <div class="text-overlay">
+                    <h2>Team</h2>
+                    <div class="price">$129</div>
+                    <div class="details-text">
+                        <span>10 contributor</span>
+                        <span>Up to 50 proyects</span>
+                        <span>24/7 support</span>
+                    </div>
+                </div>
+                <div class="purchase-button-container">
+                    <h2 class="back-h2">Team</h2>
+                    <i class="fa-solid fa-people-group"></i>
+                    <div ><a class="purchase-button light" href="/404 page/404.html" target="_blank">Purchase</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="card-wrapper">
+            <div class="card light">
+                <div class="text-overlay">
+                    <h2>Organization</h2>
+                    <div class="price">$199</div>
+                    <div class="details-text">
+                        <span>100 contributor</span>
+                        <span>Up to 200 proyects</span>
+                        <span>24/7 support</span>
+                    </div>
+                </div>
+                <div class="purchase-button-container">
+                    <h2 class="back-h2">Organizacion</h2>
+                    <i class="fa-solid fa-building"></i>
+                    <div ><a class="purchase-button light" href="/404 page/404.html" target="_blank">Purchase</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 
+
+<script>
+    window.onscroll = function() {myFunction()};
+    
+    var header = document.getElementById("myHeader");
+    var sticky = header.offsetTop;
+    
+    function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("sticky");
+      } else {
+        header.classList.remove("sticky");
+      }
+    }
+    </script>   
+</body>
+</html>
