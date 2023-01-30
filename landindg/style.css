@@ -1,0 +1,744 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,500|Red+Hat+Display:400,500");
+
+@font-face {
+  font-family: "SF Pro Text-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/SFProText-Bold") format("truetype");
+}
+
+@font-face {
+  font-family: "SF Pro Text-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/SFProText-Regular") format("truetype");
+}
+
+@font-face {
+  font-family: "SF Pro Text-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://fonts.animaapp.com/SFProText-Medium") format("opentype");
+}
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: #052941;
+  border: 1px none;
+  display: flex;
+  height: 3226px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.vector-3 {
+  height: 53px;
+  left: 1234px;
+  position: fixed;
+  top: 759px;
+  width: 51px;
+  z-index: 2;
+}
+
+.overlap-group8 {
+  height: 3781px;
+  margin-left: -13px;
+  margin-top: -555px;
+  position: relative;
+  width: 2036px;
+  z-index: 1;
+}
+
+.group-3 {
+  height: 688px;
+  left: 648px;
+  position: absolute;
+  top: 1997px;
+  width: 805px;
+}
+
+.button1-1 {
+  left: 868px;
+}
+
+.desktop-1 .button1-3 {
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  padding: 14px 10px;
+  position: absolute;
+  top: 633px;
+  width: 89px;
+}
+
+.button-text-1 {
+  margin-bottom: -2.5px;
+  margin-top: -6.5px;
+}
+
+.desktop-1 .button-text-4 {
+  letter-spacing: 0;
+  line-height: normal;
+  width: fit-content;
+}
+
+.overlap-group5 {
+  height: 210px;
+  left: 684px;
+  position: absolute;
+  top: 1659px;
+  width: 408px;
+}
+
+.marketing-3 {
+  left: 181px;
+  top: 63px;
+  width: 147px;
+}
+
+.desktop-1 .marketing-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.mejorar-la-comercial-3 {
+  left: 181px;
+  top: 101px;
+  width: 227px;
+}
+
+.desktop-1 .mejorar-la-comercial-5 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+}
+
+.ellipse-1 {
+  width: 208px;
+}
+
+.desktop-1 .ellipse {
+  height: 210px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.line-17 {
+  left: 181px;
+  top: 86px;
+  width: 34px;
+}
+
+.desktop-1 .line {
+  height: 5px;
+  position: absolute;
+}
+
+.rectangle-10 {
+  background-color: var(--alto);
+  border-radius: 5px;
+  height: 90px;
+  left: 110px;
+  position: absolute;
+  top: 58px;
+  width: 295px;
+}
+
+.overlap-group6 {
+  height: 210px;
+  left: 920px;
+  position: absolute;
+  top: 1494px;
+  width: 419px;
+}
+
+.line-19 {
+  left: 192px;
+  top: 87px;
+  width: 34px;
+}
+
+.ellipse-9 {
+  width: 210px;
+}
+
+.mejorar-la-comercial-4 {
+  left: 192px;
+  top: 100px;
+  width: 227px;
+}
+
+.rectangle-12 {
+  background-color: var(--alto);
+  border-radius: 5px;
+  height: 90px;
+  left: 123px;
+  position: absolute;
+  top: 58px;
+  width: 285px;
+}
+
+.marketing-4 {
+  left: 192px;
+  top: 64px;
+  width: 149px;
+}
+
+.rectangle-15 {
+  background-color: 
+#041c26;
+  height: 178px;
+  left: 0;
+  position: absolute;
+  top: 3603px;
+  width: 1460px;
+}
+
+.pana-artesanal-con-l {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  left: 143px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2317px;
+  width: 466px;
+}
+
+.overlap-group3 {
+  height: 210px;
+  left: 494px;
+  position: absolute;
+  top: 1494px;
+  width: 413px;
+}
+
+.line-16 {
+  left: 185px;
+  top: 87px;
+  width: 35px;
+}
+
+.marketing-1 {
+  left: 185px;
+  top: 64px;
+  width: 149px;
+}
+
+.rectangle-9 {
+  background-color: var(--alto);
+  border-radius: 5px;
+  height: 90px;
+  left: 107px;
+  position: absolute;
+  top: 58px;
+  width: 295px;
+}
+
+.mejorar-la-comercial-1 {
+  left: 185px;
+  top: 100px;
+  width: 228px;
+}
+
+.overlap-group2 {
+  height: 210px;
+  left: 78px;
+  position: absolute;
+  top: 1494px;
+  width: 403px;
+}
+
+.marketing {
+  left: 176px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 64px;
+  width: 148px;
+}
+
+.line-14 {
+  left: 176px;
+  top: 87px;
+  width: 33px;
+}
+
+.rectangle-7 {
+  background-color: var(--alto);
+  border-radius: 5px;
+  height: 90px;
+  left: 107px;
+  position: absolute;
+  top: 58px;
+  width: 296px;
+}
+
+.ellipse-5 {
+  width: 207px;
+}
+
+.mejorar-la-comercial {
+  left: 176px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 100px;
+  width: 227px;
+}
+
+.recurso-3-1 {
+  height: 59px;
+  left: 159px;
+  position: absolute;
+  top: 624px;
+  width: 166px;
+}
+
+.group-container {
+  height: 800px;
+  left: 472px;
+  position: absolute;
+  top: 555px;
+  width: 981px;
+}
+
+.group-1 {
+  height: 473px;
+  left: 540px;
+  position: absolute;
+  top: 0;
+  width: 441px;
+}
+
+.group {
+  position: absolute;
+  width: 1564px;
+  height: 1355px;
+  left: 459px;
+  top: -555px;
+}
+
+.panaderia {
+  left: 153px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 2246px;
+  width: 181px;
+}
+
+body {
+background: radial-gradient(87.68% 131.53% at 23.14% 3.7%, #041C26 0%, #052941 100%);
+}
+
+.servicios {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: 40px;
+  font-weight: 400;
+  left: 599px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1313px;
+  width: 268px;
+}
+
+.button1 {
+  align-items: center;
+  border-radius: 10px;
+  display: flex;
+  gap: 10px;
+  height: 35px;
+  justify-content: center;
+  left: 1118px;
+  padding: 14px 10px;
+  position: absolute;
+  top: 636px;
+  width: 75px;
+}
+
+.button-text {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-bottom: -2.5px;
+  margin-left: -1px;
+  margin-right: -1px;
+  margin-top: -6.5px;
+  width: fit-content;
+}
+
+.vector-2 {
+  height: 31px;
+  left: 1241px;
+  position: absolute;
+  top: 3669px;
+  width: 39px;
+}
+
+.group-6 {
+  align-items: flex-start;
+  display: flex;
+  height: 22px;
+  left: 978px;
+  min-width: 229px;
+  position: absolute;
+  top: 3668px;
+}
+
+.vector {
+  height: 22px;
+  width: 21px;
+}
+
+.desktop-1 .moiras {
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+}
+
+.moiras-reposposteria {
+  min-height: 20px;
+  width: 206px;
+}
+
+.group-8 {
+  height: 810px;
+  left: 19px;
+  position: absolute;
+  top: 2861px;
+  width: 1434px;
+}
+
+.overlap-group4 {
+  height: 210px;
+  left: 306px;
+  position: absolute;
+  top: 1659px;
+  width: 409px;
+}
+
+.line-15 {
+  left: 182px;
+  top: 86px;
+  width: 34px;
+}
+
+.marketing-2 {
+  left: 182px;
+  top: 63px;
+  width: 147px;
+}
+
+.mejorar-la-comercial-2 {
+  left: 182px;
+  top: 101px;
+  width: 226px;
+}
+
+.rectangle-8 {
+  background-color: var(--alto);
+  border-radius: 5px;
+  height: 90px;
+  left: 111px;
+  position: absolute;
+  top: 58px;
+  width: 298px;
+}
+
+.x2022-moiras-desarr {
+  left: 589px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3727px;
+  width: 255px;
+}
+
+.span-1 {
+  text-decoration: underline;
+}
+
+.button2 {
+  align-items: center;
+  background-color: var(--robins-egg-blue);
+  border: 2px solid;
+  border-radius: 12px;
+  box-shadow: 0px 4px 16px 
+#4afefe80;
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  left: 608px;
+  padding: 14px 20px;
+  position: absolute;
+  top: 3298px;
+  width: 222px;
+}
+
+.recurso-3-2 {
+  height: 71px;
+  left: 142px;
+  position: absolute;
+  top: 3649px;
+  width: 200px;
+}
+
+.overlap-group1 {
+  height: 20px;
+  left: 759px;
+  position: absolute;
+  top: 3670px;
+  width: 183px;
+}
+
+.vector-1 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.moiras-reposteria {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 183px;
+}
+
+.group-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 147px;
+  min-height: 252px;
+  position: absolute;
+  top: 811px;
+  width: 450px;
+}
+
+.web-design-container {
+  align-self: center;
+  height: 167px;
+  margin-left: 1px;
+  position: relative;
+  width: 437px;
+}
+
+.web-design-2 {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 111px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.web-design-1 {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-medium);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 83px;
+  width: 318px;
+}
+
+.web-design {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 84px;
+  width: 333px;
+}
+
+.group-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 239px;
+  min-height: 181px;
+  position: absolute;
+  top: 3089px;
+  width: 966px;
+}
+
+.rectangle-16 {
+  background-color: 
+#ffffff61;
+  border-radius: 90px;
+  height: 67px;
+  margin-right: 4px;
+  margin-top: 7px;
+  width: 962px;
+}
+
+.el-mejor-asesoramiento-en-marketing {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  min-height: 42px;
+  text-align: center;
+  width: 633px;
+}
+
+.contactanos {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 22px;
+  min-height: 65px;
+  text-align: center;
+  width: 514px;
+}
+
+.cookies {
+  left: 1272px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3669px;
+  width: 105px;
+}
+
+.button1-2 {
+  left: 993px;
+}
+
+.button-text-2 {
+  color: var(--robins-egg-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  margin-bottom: -2.5px;
+  margin-top: -6.5px;
+}
+
+.hover-layer {
+  background-color: 
+#ffffff26;
+  border-radius: 12px;
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.nace-en-guadalajara {
+  color: var(--white);
+  font-family: var(--font-family-red_hat_display);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1384px;
+  width: 714px;
+}
+
+:root {
+  --black: 
+rgba(0, 0, 0, 1);
+  --robins-egg-blue: 
+rgba(35, 217, 218, 1);
+  --alto: 
+rgba(217, 217, 217, 0.2);
+  --white: 
+rgba(255, 255, 255, 1);
+
+  --font-size-xxs: 11px;
+  --font-size-xs: 12px;
+  --font-size-s: 14px;
+  --font-size-m: 16px;
+  --font-size-l: 18px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 50px;
+
+  --font-family-red_hat_display: "Red Hat Display";
+  --font-family-roboto: "Roboto";
+  --font-family-sf_pro_text-bold: "SF Pro Text-Bold";
+  --font-family-sf_pro_text-medium: "SF Pro Text-Medium";
+  --font-family-sf_pro_text-regular: "SF Pro Text-Regular";
+}
+
+
+
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 500;
+  font-style: normal;
+}
+.sfprotext-bold-white-12px {
+  color: var(--white);
+  font-family: var(--font-family-sf_pro_text-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-white-11px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-style: normal;
+}
+.redhatdisplay-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-red_hat_display);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  font-style: normal;
+}
