@@ -1,0 +1,36 @@
+<!DOCTYPE Html>
+<Html Lang="En">
+  <Head>
+    <Meta Charset="UTF-8" />
+    <Meta Http-Equiv="X-UA-Compatible" Content="IE=Edge" />
+    <Meta Name="Viewport" Content="Width=Device-Width, Initial-Scale=1.0" />
+    <Title>Qr Code Generator</Title>
+    <Link
+      rel="Stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Ubuntu&amp;display=swap"
+    />
+   <Link Rel="Stylesheet" Href="style.css" />
+   <Script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></Script>
+  </Head>
+  <Body>
+    <Div Class="header">
+      <Div Class="box">
+        <H1>QR Code Generator</H1>
+        <Hr />
+        
+        <input type="text" placeholder="Type something..." name="input_text" id="input_text" autocomplete="off">
+        <div class="qr-code"></div>
+        <button class="button" type="submit">Generate</button>
+        <div>
+            <button class="button"  (click)="downloand()" >DESCARGA PRRA</button>
+        </div>
+    </Div>
+    </Div>
+    
+
+
+    <Script Src="app.js"></Script>
+  </Body>
+</Html>
+
+
